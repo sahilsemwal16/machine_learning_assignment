@@ -28,13 +28,11 @@ Usage
 Clone the repository and navigate to the project directory:
 
 bash
-Copy code
 git clone https://github.com/username/restaurant-tip-prediction.git
 cd restaurant-tip-prediction
 Install dependencies:
 
 bash
-Copy code
 pip install -r requirements.txt
 Run the analysis script to perform EDA and model training:
 
